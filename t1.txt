@@ -11,3 +11,8 @@ beijingyansexiuyanweilanse
 ----------------master write four-----------
 huichangshengchongtuma(master)
 
+-----------------hot-fix write 2----------
+huichanshengchongtuma(hot-fix)
+
+手动合并时可以随意增添内容吧，
+那我再多加几个字
